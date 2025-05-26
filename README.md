@@ -34,7 +34,7 @@
   <tr>
     <td>📄 Know about my experiences</td>
     <td>GitHub README sayfam</td>
-    <td><a href="https://github.com/nitibyre/cakienes">Profil README</a></td>
+    <td><a href="https://github.com/nitibyre">Profil README</a></td>
   </tr>
 </table>
 
