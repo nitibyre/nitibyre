@@ -7,11 +7,6 @@
 
 <table>
   <tr>
-    <td>🤝 I'm looking to collaborate on</td>
-    <td>Minimal ve sade yazılım araçları</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>🙋‍♀️ I'm looking for help with</td>
     <td>API kullanımı ve React öğrenimi</td>
     <td></td>
