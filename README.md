@@ -49,4 +49,6 @@ Bursa & Istanbul, Turkey 🇹🇷
 
 **Feel free to reach out:**  
 📫 [Email](mailto:serhatcakii.28@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/serhat-çakı-10b896366)  
+🔗 [LinkedIn](www.linkedin.com/in/serhat-çakı-10b896366)
+
+![Visits Badge](https://profile-counter.glitch.me/nitibyre/count.svg)
