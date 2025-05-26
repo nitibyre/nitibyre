@@ -2,9 +2,11 @@
 
 ## 🎓 Bilgisayar Programcılığı Öğrencisi
 
-Teknik meslek lisesinde 2 yıl boyunca web sitesi ve veri tabanı alanlarında çalışma yaptım. Mezun olduktan sonra, kişisel projeler için web siteleri, otomasyon botları ve yarım kalmış sosyal medya web uygulaması geliştirmeye devam ettim. 
+Meslek lisesinde toplam 4 yıl okudum; ilk 2 yıl temel eğitim aldım, son 2 yılda ise web geliştirme ve veri tabanı alanlarında yoğunlaştım ve bu alanlarda pratik yapma fırsatı buldum. Liseden mezun olduktan sonra yazılım tutkum devam etti ve kişisel projeler geliştirerek deneyim kazandım.
 
-Genellikle frontend ve backend alanlarında çalışıyorum, aynı zamanda botlar ve otomasyon konusunda da tutkuluyum. 🚀
+Özellikle frontend ve backend alanlarında çalışırken, aynı zamanda otomasyon ve bot geliştirme konularına da ilgi duyuyorum. C++, C#, Python gibi dillerde orta ve üzeri seviyede bilgi sahibiyim ve çeşitli otomatikleştirme araçları geliştiriyorum.
+
+Teknolojileri takip etmeyi ve kendimi geliştirmeyi seviyorum. Hedefim, öğrendiklerimi pratikte uygulayarak daha kapsamlı ve kullanışlı projeler ortaya koymak.
 
 ---
 
@@ -42,8 +44,8 @@ Bursa & İstanbul, Türkiye 🇹🇷
 
 ---
 
-**Let's connect!**  
-📫 [Email](mailto:your-email@example.com)  
+**İletişime geçmek istersen:**  
+📫 [E-posta](mailto:your-email@example.com)  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 🐦 [Twitter](https://twitter.com/yourhandle)
 
@@ -55,15 +57,17 @@ Bursa & İstanbul, Türkiye 🇹🇷
 
 ## 🎓 Computer Programming Student
 
-I studied web development and databases for 2 years in technical high school. After graduation, I continued developing personal projects such as websites, automation bots, and a partial social media web app.
+I completed 4 years in technical high school; the first 2 years were foundational education, and the last 2 years I focused intensively on web development and databases, gaining practical experience. After graduation, my passion for software development continued, and I developed personal projects to enhance my skills.
 
-I mainly work in frontend and backend web development and have a passion for automation and bots. 🚀
+I mainly work on frontend and backend development but also have a strong interest in automation and bot development. I have intermediate to advanced knowledge in C++, C#, and Python and create various automation tools.
+
+I enjoy keeping up with new technologies and continuously improving myself. My goal is to apply what I learn in practical projects and build comprehensive and useful solutions.
 
 ---
 
 ## 🛠 Technologies & Skills
 
-(same icons as above)
+(same icons)
 
 ---
 
@@ -73,7 +77,7 @@ Bursa & Istanbul, Turkey 🇹🇷
 
 ---
 
-**Let's connect!**  
+**Feel free to reach out:**  
 📫 [Email](mailto:your-email@example.com)  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 🐦 [Twitter](https://twitter.com/yourhandle)
