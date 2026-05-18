@@ -49,4 +49,4 @@ Bursa & Istanbul, Turkey 🇹🇷
 
 **Feel free to reach out:**  
 📫 [Email](mailto:serhat.caki05gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/serhatcaki)
+🔗 [LinkedIn](https://www.linkedin.com/in/serhatcaki)
